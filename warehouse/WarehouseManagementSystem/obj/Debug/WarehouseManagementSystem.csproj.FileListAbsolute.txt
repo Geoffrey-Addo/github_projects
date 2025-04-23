@@ -1,0 +1,102 @@
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\bin\Debug\Warehouse Management System.exe.config
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmAbout.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCustomerMainMenu.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCustomerProfileEntry.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCustomerOrders.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmPlaceOrders.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmUpdateProfile.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmOrder.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCategory.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCategoryRecord.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmChangePassword.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCustomers.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmUpdateCustomerDetails.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSalesRecord2.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmStockRecord.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmStockReport.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSuppliersRecord.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSuppliersRecord1.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmProductsRecord.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmProductsRecord1.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSubCategory.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSubCategoryRecord.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSuppliers.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCustomersRecord.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCustomersRecord1.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCustomersRecord2.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCustomersReport.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmInvoiceReport.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmLogin.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmLoginDetails.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmMainMenu.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmProduct.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmProductsRecord2.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmRegisteredUsersDetails.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSales.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSalesRecord1.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSalesReport.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSplash.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmStock.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmStockRecord1.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSuppliersReport.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmRegistration.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCustomerRegistration.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.Properties.Resources.resources
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\bin\Debug\Warehouse Management System.exe
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\bin\Debug\Warehouse Management System.pdb
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\Warehouse Management System.exe
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\Warehouse Management System.pdb
+C:\Users\Raj Sharma\Desktop\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmLowStockReport.resources
+C:\Users\HCT\Downloads\warehousemanagementsystem_0\WarehouseManagementSystem\WarehouseManagementSystem\bin\Debug\Warehouse Management System.exe.config
+C:\Users\HCT\Downloads\warehousemanagementsystem_0\WarehouseManagementSystem\WarehouseManagementSystem\obj\Debug\Warehouse Management System.pdb
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmAbout.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCustomerMainMenu.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCustomerProfileEntry.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCustomerOrders.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmLowStockReport.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmPlaceOrders.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmUpdateProfile.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmOrder.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCategory.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCategoryRecord.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmChangePassword.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCustomers.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmUpdateCustomerDetails.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSalesRecord2.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmStockRecord.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmStockReport.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSuppliersRecord.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSuppliersRecord1.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmProductsRecord.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmProductsRecord1.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSubCategory.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSubCategoryRecord.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSuppliers.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCustomersRecord.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCustomersRecord1.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCustomersRecord2.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCustomersReport.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmInvoiceReport.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmLogin.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmLoginDetails.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmMainMenu.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmProduct.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmProductsRecord2.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmRegisteredUsersDetails.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSales.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSalesRecord1.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSalesReport.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSplash.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmStock.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmStockRecord1.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmSuppliersReport.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmRegistration.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.frmCustomerRegistration.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.Properties.Resources.resources
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.csproj.GenerateResource.cache
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\WarehouseManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Richard Ansah Addo\Desktop\warehouse\WarehouseManagementSystem\obj\Debug\Warehouse Management System.pdb
